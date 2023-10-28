@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Gupta</h1>
 <h3 align="center">Data Scientist and Machine Learning Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmoinfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmoinfaisal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadmoinfaisal" alt="muhammadmoinfaisal" /></a> </p>
-
 - 💬 Expertise In **Machine Learning, Deep Learning, Computer Vision, and LLMs**
 
 - 📫 How to reach me **saurabh.gupta18891@gmail.com**
