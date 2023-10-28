@@ -1,24 +1,18 @@
-<h1 align="center">Hi 👋, I'm Muhammad Moin</h1>
-<h3 align="center">Machine Learning and Computer Vision Engineer</h3>
+<h1 align="center">Hi 👋, I'm Saurabh Gupta</h1>
+<h3 align="center">Data Scientist and Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmoinfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmoinfaisal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadmoinfaisal" alt="muhammadmoinfaisal" /></a> </p>
 
-- 💬 Talking about **Machine Learning, Deep Learning and Computer Vision**
+- 💬 Expertise In **Machine Learning, Deep Learning, Computer Vision, and LLMs**
 
-- 📷 YouTube Channel [https://www.youtube.com/channel/UC--6PuiEdiQY8nasgNluSOA](https://www.youtube.com/channel/UC--6PuiEdiQY8nasgNluSOA)
-
-- 📝 I regularly write articles on [https://medium.com/@m.moinfaisal](https://medium.com/@m.moinfaisal)
-
-- 📫 How to reach me **m.moinfaisal@gmail.com**
-
-- 🤝 Business Inquiries **m.moinfaisal@gmail.com**
+- 📫 How to reach me **saurabh.gupta18891@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<a href="https://www.linkedin.com/in/muhammad-moin-7776751a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadmoinfaisal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saurabhgupta18891/)/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadmoinfaisal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC--6PuiEdiQY8nasgNluSOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammadmoinfaisal" height="30" width="40" /></a>
 </p>
 
